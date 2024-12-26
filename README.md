@@ -61,10 +61,7 @@ myButton.onclick = function () {
 
 Contributions are welcome! If you'd like to improve this project, feel free to fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Author
 
-Developed by [Your Name](https://github.com/adhikarilaxman). Feel free to reach out if you have any questions or suggestions!
+Developed by [Laxman Adhikari](https://github.com/adhikarilaxman). Feel free to reach out if you have any questions or suggestions!
