@@ -30,7 +30,7 @@ A simple Random Number Generator built using HTML, CSS, and JavaScript. This pro
 
 3. Open the `index.html` file in your browser to run the application.
 
-4. Click the "Generate" button to get a random number between 1 and 999.
+4. Click the "Roll" button to get a random number between 1 and 999.
 
 ## Code Example
 
